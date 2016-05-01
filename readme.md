@@ -9,4 +9,13 @@ The first:
 		
 		The output of this programe is 42.
 		Yes, the answer of life, universe and everything.
+		
 *20151020 JEU*
+
+The second:
+
+		sinon
+		
+		The code assemble a cartoon face.
+		
+*20160501 JEU*
