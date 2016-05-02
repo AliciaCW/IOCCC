@@ -16,14 +16,14 @@ The second:
 
 		sinon
 		
-		The code assemble a cartoon face.
+		The codes make a cartoon face.
 		
 *20160501 JEU*
 The third:
 
 		briken
 		
-		The code assemble a cartoon face.
+		The codes make a cartoon face.
 		
 *20160501 JEU*
 The forth:
