@@ -32,4 +32,12 @@ The forth:
 		
 		The output of this program is a deak.
 		
-*20160501 JEU*
+*20160502 JEU*
+The fifth:
+
+		endoh1
+		
+		The code assemble a QR code which can not be scanned.
+		Liar!
+		
+*20160502 JEU*
