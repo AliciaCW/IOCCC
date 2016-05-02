@@ -7,7 +7,7 @@ The first:
 		
 		wiedijk
 		
-		The output of this programe is 42.
+		The output of this program is 42.
 		Yes, the answer of life, universe and everything.
 		
 *20151020 JEU*
@@ -24,5 +24,12 @@ The third:
 		briken
 		
 		The code assemble a cartoon face.
+		
+*20160501 JEU*
+The forth:
+
+		deak
+		
+		The output of this program is a deak.
 		
 *20160501 JEU*
